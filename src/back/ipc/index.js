@@ -1,0 +1,3 @@
+
+require('./CharacterIPC')
+require('./AssetIPC')
